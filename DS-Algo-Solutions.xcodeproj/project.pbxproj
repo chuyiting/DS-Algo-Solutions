@@ -10,6 +10,7 @@
 		4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */; };
 		4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */; };
 		4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FE82785D9780085F77D /* 11-container-with-most-water.cpp */; };
+		4F465FEB2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FEA2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "206-reverse-linked-list.cpp"; sourceTree = "<group>"; };
 		4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "141-linked-list-cycle.cpp"; sourceTree = "<group>"; };
 		4F465FE82785D9780085F77D /* 11-container-with-most-water.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11-container-with-most-water.cpp"; sourceTree = "<group>"; };
+		4F465FEA2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "153-find-minimum-in-rotated-sorted-array.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */,
 				4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */,
 				4F465FE82785D9780085F77D /* 11-container-with-most-water.cpp */,
+				4F465FEA2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp */,
 			);
 			path = Week1;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */,
 				4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */,
 				4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */,
+				4F465FEB2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
