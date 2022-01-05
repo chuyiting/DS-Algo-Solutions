@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F465FD92784547B0085F77D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FD82784547B0085F77D /* main.cpp */; };
+		4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */; };
+		4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		4F465FD52784547B0085F77D /* DS-Algo-Solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DS-Algo-Solutions"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F465FD82784547B0085F77D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "206-reverse-linked-list.cpp"; sourceTree = "<group>"; };
+		4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "141-linked-list-cycle.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +59,18 @@
 		4F465FD72784547B0085F77D /* DS-Algo-Solutions */ = {
 			isa = PBXGroup;
 			children = (
-				4F465FD82784547B0085F77D /* main.cpp */,
+				4F465FE72785D62C0085F77D /* Week1 */,
 			);
 			path = "DS-Algo-Solutions";
+			sourceTree = "<group>";
+		};
+		4F465FE72785D62C0085F77D /* Week1 */ = {
+			isa = PBXGroup;
+			children = (
+				4F465FE227847A860085F77D /* 141-linked-list-cycle.cpp */,
+				4F465FDF278472830085F77D /* 206-reverse-linked-list.cpp */,
+			);
+			path = Week1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -119,7 +130,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F465FD92784547B0085F77D /* main.cpp in Sources */,
+				4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */,
+				4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
