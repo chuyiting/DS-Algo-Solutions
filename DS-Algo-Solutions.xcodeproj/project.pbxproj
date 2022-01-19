@@ -16,6 +16,8 @@
 		4F465FF32789F8160085F77D /* 200-number-of-islands.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FF22789F8160085F77D /* 200-number-of-islands.cpp */; };
 		4F465FF5278A9E460085F77D /* 76-minimum-window-substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FF4278A9E460085F77D /* 76-minimum-window-substring.cpp */; };
 		4F465FF8278AD0B60085F77D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FF7278AD0B60085F77D /* main.cpp */; };
+		4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */; };
+		4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -42,6 +44,8 @@
 		4F465FF4278A9E460085F77D /* 76-minimum-window-substring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "76-minimum-window-substring.cpp"; sourceTree = "<group>"; };
 		4F465FF6278AD0930085F77D /* 76-minimum-window-substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "76-minimum-window-substring.h"; sourceTree = "<group>"; };
 		4F465FF7278AD0B60085F77D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19-remove-nth-node-from-end-of-list.cpp"; sourceTree = "<group>"; };
+		4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647-palindromic-substrings.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				4F465FE72785D62C0085F77D /* Week1 */,
+				4FF026D327988C6C003EAD7F /* Week3 */,
 			);
 			path = "DS-Algo-Solutions";
 			sourceTree = "<group>";
@@ -94,6 +99,15 @@
 				4F465FEA2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp */,
 			);
 			path = Week1;
+			sourceTree = "<group>";
+		};
+		4FF026D327988C6C003EAD7F /* Week3 */ = {
+			isa = PBXGroup;
+			children = (
+				4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */,
+				4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */,
+			);
+			path = Week3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -154,12 +168,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */,
+				4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */,
 				4F465FF5278A9E460085F77D /* 76-minimum-window-substring.cpp in Sources */,
 				4F465FF8278AD0B60085F77D /* main.cpp in Sources */,
 				4F465FED278746710085F77D /* 424-longest-repeating-character-replacement.cpp in Sources */,
 				4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */,
 				4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */,
 				4F465FEB2785E0A80085F77D /* 153-find-minimum-in-rotated-sorted-array.cpp in Sources */,
+				4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */,
 				4F465FEF2789EA150085F77D /* 3-longest-substring-without-repeating-characters.cpp in Sources */,
 				4F465FF32789F8160085F77D /* 200-number-of-islands.cpp in Sources */,
 			);
