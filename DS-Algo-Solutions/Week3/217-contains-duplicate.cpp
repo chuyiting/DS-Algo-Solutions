@@ -1,0 +1,26 @@
+//
+//  217-contains-duplicate.cpp
+//  DS-Algo-Solutions
+//
+//  Created by Eddy Chu on 2022/1/20.
+//
+
+#include <stdio.h>
+#include <vector>
+#include <unordered_set>
+
+using namespace std;
+
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        unordered_set<int> s;
+        for (int i = 0; i < nums.size(); i++) {
+            if (s.find(nums[i]) != s.end()) {
+                return true;
+            }
+            s.insert(nums[i]);
+        }
+        return false;
+    }
+};

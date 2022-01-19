@@ -19,6 +19,7 @@
 		4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */; };
 		4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */; };
 		4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D42798953C003EAD7F /* 1-two-sum.cpp */; };
+		4FF026D7279896D1003EAD7F /* 217-contains-duplicate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D6279896D1003EAD7F /* 217-contains-duplicate.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -48,6 +49,7 @@
 		4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19-remove-nth-node-from-end-of-list.cpp"; sourceTree = "<group>"; };
 		4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647-palindromic-substrings.cpp"; sourceTree = "<group>"; };
 		4FF026D42798953C003EAD7F /* 1-two-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-two-sum.cpp"; sourceTree = "<group>"; };
+		4FF026D6279896D1003EAD7F /* 217-contains-duplicate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "217-contains-duplicate.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */,
 				4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */,
 				4FF026D42798953C003EAD7F /* 1-two-sum.cpp */,
+				4FF026D6279896D1003EAD7F /* 217-contains-duplicate.cpp */,
 			);
 			path = Week3;
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FF026D7279896D1003EAD7F /* 217-contains-duplicate.cpp in Sources */,
 				4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */,
 				4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */,
 				4F465FF5278A9E460085F77D /* 76-minimum-window-substring.cpp in Sources */,
