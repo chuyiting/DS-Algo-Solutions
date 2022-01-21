@@ -17,6 +17,7 @@
 		4F465FF5278A9E460085F77D /* 76-minimum-window-substring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FF4278A9E460085F77D /* 76-minimum-window-substring.cpp */; };
 		4F465FF8278AD0B60085F77D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F465FF7278AD0B60085F77D /* main.cpp */; };
 		4F7E27422799E10A0082B377 /* 417-pacific-atlantic-water-flow.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E27412799E10A0082B377 /* 417-pacific-atlantic-water-flow.cpp */; };
+		4F7E2744279B29B60082B377 /* 98-validate-binary-search-tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E2743279B29B60082B377 /* 98-validate-binary-search-tree.cpp */; };
 		4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */; };
 		4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */; };
 		4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D42798953C003EAD7F /* 1-two-sum.cpp */; };
@@ -48,6 +49,7 @@
 		4F465FF6278AD0930085F77D /* 76-minimum-window-substring.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "76-minimum-window-substring.h"; sourceTree = "<group>"; };
 		4F465FF7278AD0B60085F77D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		4F7E27412799E10A0082B377 /* 417-pacific-atlantic-water-flow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "417-pacific-atlantic-water-flow.cpp"; sourceTree = "<group>"; };
+		4F7E2743279B29B60082B377 /* 98-validate-binary-search-tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "98-validate-binary-search-tree.cpp"; sourceTree = "<group>"; };
 		4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19-remove-nth-node-from-end-of-list.cpp"; sourceTree = "<group>"; };
 		4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647-palindromic-substrings.cpp"; sourceTree = "<group>"; };
 		4FF026D42798953C003EAD7F /* 1-two-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-two-sum.cpp"; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */,
 				4FF026D42798953C003EAD7F /* 1-two-sum.cpp */,
 				4F7E27412799E10A0082B377 /* 417-pacific-atlantic-water-flow.cpp */,
+				4F7E2743279B29B60082B377 /* 98-validate-binary-search-tree.cpp */,
 				4FF026D6279896D1003EAD7F /* 217-contains-duplicate.cpp */,
 			);
 			path = Week3;
@@ -180,6 +183,7 @@
 				4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */,
 				4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */,
 				4F465FF5278A9E460085F77D /* 76-minimum-window-substring.cpp in Sources */,
+				4F7E2744279B29B60082B377 /* 98-validate-binary-search-tree.cpp in Sources */,
 				4F465FF8278AD0B60085F77D /* main.cpp in Sources */,
 				4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */,
 				4F465FED278746710085F77D /* 424-longest-repeating-character-replacement.cpp in Sources */,
