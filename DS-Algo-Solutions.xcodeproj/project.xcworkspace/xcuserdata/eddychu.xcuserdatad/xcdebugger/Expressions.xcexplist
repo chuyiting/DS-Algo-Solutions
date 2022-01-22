@@ -10,5 +10,22 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "Codec::deserialize(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):297-serialize-and-deserialize-binary-tree.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "data.substr(0, pos)">
+            </PersistentString>
+            <PersistentString
+               value = "data.find(&quot;,&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "!curr">
+            </PersistentString>
+            <PersistentString
+               value = "curr-&gt;val">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>
