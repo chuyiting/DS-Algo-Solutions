@@ -83,3 +83,26 @@ public:
         return clone;
     }
 };
+
+// shorter solution
+class Solution2 {
+public:
+    
+    unordered_map<Node*, Node*> visited;
+    Node* cloneGraph(Node* node) {
+        if (!node) return nullptr;
+        if (visited.find(node) != visited.end()) return visited[node];
+        
+        Node* clone = new Node(node->val);
+        visited[node] = clone;
+        
+        for (auto *neighbor: node->neighbors) {
+            Node *clone_child = cloneGraph(neighbor);
+            if (clone_child) {
+                clone->neighbors.push_back(clone_child);
+            }
+        }
+        
+        return clone;
+    }
+};
