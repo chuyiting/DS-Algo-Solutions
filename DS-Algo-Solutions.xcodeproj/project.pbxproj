@@ -26,6 +26,7 @@
 		4F7E275427A2BBDA0082B377 /* 133-clone-graph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E275327A2BBDA0082B377 /* 133-clone-graph.cpp */; };
 		4F7E275827A2DB1E0082B377 /* 207-course-schedule.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E275727A2DB1E0082B377 /* 207-course-schedule.cpp */; };
 		4F7E275A27A473320082B377 /* 104-maximum-depth-of-binary-tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E275927A473320082B377 /* 104-maximum-depth-of-binary-tree.cpp */; };
+		4F7E275C27A473F80082B377 /* 100-same-tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E275B27A473F80082B377 /* 100-same-tree.cpp */; };
 		4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */; };
 		4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */; };
 		4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D42798953C003EAD7F /* 1-two-sum.cpp */; };
@@ -67,6 +68,7 @@
 		4F7E275327A2BBDA0082B377 /* 133-clone-graph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "133-clone-graph.cpp"; sourceTree = "<group>"; };
 		4F7E275727A2DB1E0082B377 /* 207-course-schedule.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "207-course-schedule.cpp"; sourceTree = "<group>"; };
 		4F7E275927A473320082B377 /* 104-maximum-depth-of-binary-tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "104-maximum-depth-of-binary-tree.cpp"; sourceTree = "<group>"; };
+		4F7E275B27A473F80082B377 /* 100-same-tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "100-same-tree.cpp"; sourceTree = "<group>"; };
 		4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19-remove-nth-node-from-end-of-list.cpp"; sourceTree = "<group>"; };
 		4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647-palindromic-substrings.cpp"; sourceTree = "<group>"; };
 		4FF026D42798953C003EAD7F /* 1-two-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-two-sum.cpp"; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 				4F7E275327A2BBDA0082B377 /* 133-clone-graph.cpp */,
 				4F7E275727A2DB1E0082B377 /* 207-course-schedule.cpp */,
 				4F7E275927A473320082B377 /* 104-maximum-depth-of-binary-tree.cpp */,
+				4F7E275B27A473F80082B377 /* 100-same-tree.cpp */,
 			);
 			path = Week4;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				4F7E2748279B349B0082B377 /* 435-non-overlapping-intervals.cpp in Sources */,
 				4F7E274C279C22080082B377 /* 105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp in Sources */,
 				4FF026D7279896D1003EAD7F /* 217-contains-duplicate.cpp in Sources */,
+				4F7E275C27A473F80082B377 /* 100-same-tree.cpp in Sources */,
 				4F465FE92785D9780085F77D /* 11-container-with-most-water.cpp in Sources */,
 				4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */,
 				4F7E275827A2DB1E0082B377 /* 207-course-schedule.cpp in Sources */,
