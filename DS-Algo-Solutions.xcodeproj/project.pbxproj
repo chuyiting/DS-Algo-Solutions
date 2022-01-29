@@ -29,6 +29,7 @@
 		4F7E276027A474D40082B377 /* 102-binary-tree-level-order-traversal.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E275F27A474D40082B377 /* 102-binary-tree-level-order-traversal.cpp */; };
 		4F7E276227A51C770082B377 /* 124-binary-tree-maximum-path-sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E276127A51C770082B377 /* 124-binary-tree-maximum-path-sum.cpp */; };
 		4F7E276527A52BC10082B377 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E276427A52BC10082B377 /* main.cpp */; };
+		4F7E276727A5314D0082B377 /* 211-design-add-and-search-words-data-structure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4F7E276627A5314D0082B377 /* 211-design-add-and-search-words-data-structure.cpp */; };
 		4FF026D027988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */; };
 		4FF026D227988C5D003EAD7F /* 647-palindromic-substrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */; };
 		4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4FF026D42798953C003EAD7F /* 1-two-sum.cpp */; };
@@ -74,6 +75,7 @@
 		4F7E276127A51C770082B377 /* 124-binary-tree-maximum-path-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "124-binary-tree-maximum-path-sum.cpp"; sourceTree = "<group>"; };
 		4F7E276327A52B540082B377 /* 124-binary-tree-maximum-path-sum.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "124-binary-tree-maximum-path-sum.h"; sourceTree = "<group>"; };
 		4F7E276427A52BC10082B377 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4F7E276627A5314D0082B377 /* 211-design-add-and-search-words-data-structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "211-design-add-and-search-words-data-structure.cpp"; sourceTree = "<group>"; };
 		4FF026CF27988937003EAD7F /* 19-remove-nth-node-from-end-of-list.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19-remove-nth-node-from-end-of-list.cpp"; sourceTree = "<group>"; };
 		4FF026D127988C5D003EAD7F /* 647-palindromic-substrings.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647-palindromic-substrings.cpp"; sourceTree = "<group>"; };
 		4FF026D42798953C003EAD7F /* 1-two-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-two-sum.cpp"; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				4F7E275F27A474D40082B377 /* 102-binary-tree-level-order-traversal.cpp */,
 				4F7E275927A473320082B377 /* 104-maximum-depth-of-binary-tree.cpp */,
 				4F7E276127A51C770082B377 /* 124-binary-tree-maximum-path-sum.cpp */,
+				4F7E276627A5314D0082B377 /* 211-design-add-and-search-words-data-structure.cpp */,
 				4F7E276427A52BC10082B377 /* main.cpp */,
 				4F7E276327A52B540082B377 /* 124-binary-tree-maximum-path-sum.h */,
 				4F7E275B27A473F80082B377 /* 100-same-tree.cpp */,
@@ -238,6 +241,7 @@
 				4FF026D52798953C003EAD7F /* 1-two-sum.cpp in Sources */,
 				4F465FED278746710085F77D /* 424-longest-repeating-character-replacement.cpp in Sources */,
 				4F465FE1278472830085F77D /* 206-reverse-linked-list.cpp in Sources */,
+				4F7E276727A5314D0082B377 /* 211-design-add-and-search-words-data-structure.cpp in Sources */,
 				4F7E276027A474D40082B377 /* 102-binary-tree-level-order-traversal.cpp in Sources */,
 				4F7E2746279B32780082B377 /* 226-invert-binary-tree.cpp in Sources */,
 				4F465FE427847A860085F77D /* 141-linked-list-cycle.cpp in Sources */,
